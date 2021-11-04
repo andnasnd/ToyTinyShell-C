@@ -1,12 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * Anand Nambakam 450431
- *  
- * If you work in a group of two, 
- * <Put your group name here>
- * <Put name and WUSTL key of member #1 here>
- * <Put name and WUSTL key of member #2 here>
+ * Anand Nambakam 
  */
 #include <stdio.h>
 #include <stdlib.h>
